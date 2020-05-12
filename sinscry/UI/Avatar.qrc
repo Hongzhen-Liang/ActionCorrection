@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Photo/Avatar/avatar0.jpg</file>
+    <file>Photo/Avatar/avatar1.jpg</file>
+    <file>Photo/Avatar/sinscry.png</file>
+  </qresource>
+</RCC>

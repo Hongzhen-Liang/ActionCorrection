@@ -1,0 +1,11 @@
+将.ui转为.py
+
+方法一
+python -m PyQt5.uic.pyuic Select_win.ui -o Select_win.py
+
+方法二
+
+pyuic5 demo.ui -o demo.py
+
+将qrc转py
+pyrcc5 *.qrc -o *.py
